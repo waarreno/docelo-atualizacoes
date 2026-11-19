@@ -1,0 +1,7 @@
+{
+  "versao": "0.41.0",
+  "url": "https://github.com/waarreno/docelo-atualizacoes/releases/download/v0.41.0/Setup_Docelo.exe",
+  "sha256": "16833b151562e13309fa87eb83c2780844b95041e8038648fab72cf1b0b8f21a",
+  "notas": "- **Licença de uso**: ativação por código ou arquivo .lic (guia Sobre), verificada no próprio computador por assinatura digital; período de avaliação de 30 dias; aviso 30 dias antes do vencimento; 30 dias de tolerância; depois, modo somente leitura (consulta, exportação e backup continuam disponíveis; os dados nunca são bloqueados). Situação da licença na barra inferior.\n- **Atualização automática**: o programa instalado verifica se há versão nova, baixa em segundo plano, confere a assinatura digital e instala ao ser fechado, sem pedir confirmação. Botão \"Verificar atualizações\" (Sobre) e opção em Parâmetros → Atualizações.\n- O instalador, em modo de atualização, só recria o atalho da área de trabalho se ele já existir.",
+  "assinatura": "6b2a5858f364ddab7b2af6544595e1cebc1e9917e2afb84a6948b1077924e7075b8c677e0df4b0ed590c7490614170747e97bda647cb70cd6e1a7227975cc80e"
+}
