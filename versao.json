@@ -1,7 +1,7 @@
 {
-  "versao": "0.42.0",
-  "url": "https://github.com/waarreno/docelo-atualizacoes/releases/download/v0.42.0/Setup_Docelo.exe",
-  "sha256": "aa01e25172840f9bdf8bee07f686db6c784c3c78e2737d601010e9f1d4c2ed13",
-  "notas": "- **Banco de questões**: as alternativas da múltipla escolha passam a ser sempre embaralhadas na montagem da prova, com a posição da resposta equilibrada no gabarito. Ficam na ordem original as questões com \"todas as anteriores\", \"nenhuma das anteriores\" ou que citam outras alternativas (por exemplo, \"A e C estão corretas\"), além da asserção e razão. A opção \"Embaralhar alternativas\" foi retirada do editor e dos modelos de importação.\n- **Ementas e Planos de ensino**: botões \"Excluir ementa\" e \"Excluir plano\".\n- **Provas**: as caixas de 1ª e 2ª Chamada voltam a aparecer corretamente no Word.\n- **Visuais Moderno e Vidro**: os cabeçalhos das tabelas respeitam os cantos arredondados; os títulos dos quadros ficam centralizados sobre a linha da borda (também no visual Clássico).",
-  "assinatura": "04e2fa5f0d042ea9207a456b3ce3891fdb25bd70d701bca3a9b192d3c420d6c47f04ab8219d08b8a0a783c683425a06038725461cd57002309e1385f6c73590a"
+  "versao": "0.42.1",
+  "url": "https://github.com/waarreno/docelo-atualizacoes/releases/download/v0.42.1/Setup_Docelo.exe",
+  "sha256": "2a25c0752f43ebded277bbbf3fd3398b797f7955c700e68212dacf21978926d3",
+  "notas": "- **Atualização automática**: correção — a atualização baixada não era instalada ao fechar o programa (abria-se uma janela de terminal e o instalador não era executado). Agora, ao terminar o download, o programa avisa e oferece **Reiniciar agora**: ele fecha, instala a nova versão em segundo plano e é reaberto já atualizado. Escolhendo **Depois**, a instalação ocorre quando o programa for fechado.",
+  "assinatura": "64f05dcd25c45b1d751944d7497a73fc373f1499e446181e1fd94711ef909f3235aaab2b76b0292c51dd88235b00f942a07193eaa03ae5e9d6f0defc49118b04"
 }
