@@ -1,7 +1,7 @@
 {
-  "versao": "0.42.2",
-  "url": "https://github.com/waarreno/docelo-atualizacoes/releases/download/v0.42.2/Setup_Docelo.exe",
-  "sha256": "3a782ef32ed7b54c42c12f7a048206c8c5f8fb74838819f3c6d671f4d4116a67",
-  "notas": "- **Inteligência artificial**: com o campo *Limite de tokens* em branco, a resposta não é mais limitada (antes era usado um limite padrão de cada serviço).",
-  "assinatura": "9005752cf26d35e922edf10b832ae1c8f6fdc66e95925800c50355b0b8574e08662ff4f1c6cfa46eca7b8a4d4c1bc4f6d1724636b2b6ffa3aca738dfb5091302"
+  "versao": "0.42.3",
+  "url": "https://github.com/waarreno/docelo-atualizacoes/releases/download/v0.42.3/Setup_Docelo.exe",
+  "sha256": "a3c773c6f917a4e202b7c7ddc3f4554c33d4a2d453513a0518f942484f24616f",
+  "notas": "- **Apresentações**: o novo slide é inserido logo abaixo do slide selecionado (antes, sempre no fim).",
+  "assinatura": "299f2209c82c3c9232615b1e1ea0a762a69eb59547647ea7c6178b12ff0e51f705ac152389f20da9b6b93b54ee0d6f9869401325eb948ae7d79551140ef31e0e"
 }
