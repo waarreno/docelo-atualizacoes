@@ -1,7 +1,7 @@
 {
-  "versao": "0.42.1",
-  "url": "https://github.com/waarreno/docelo-atualizacoes/releases/download/v0.42.1/Setup_Docelo.exe",
-  "sha256": "2a25c0752f43ebded277bbbf3fd3398b797f7955c700e68212dacf21978926d3",
-  "notas": "- **Atualização automática**: correção — a atualização baixada não era instalada ao fechar o programa (abria-se uma janela de terminal e o instalador não era executado). Agora, ao terminar o download, o programa avisa e oferece **Reiniciar agora**: ele fecha, instala a nova versão em segundo plano e é reaberto já atualizado. Escolhendo **Depois**, a instalação ocorre quando o programa for fechado.",
-  "assinatura": "64f05dcd25c45b1d751944d7497a73fc373f1499e446181e1fd94711ef909f3235aaab2b76b0292c51dd88235b00f942a07193eaa03ae5e9d6f0defc49118b04"
+  "versao": "0.42.2",
+  "url": "https://github.com/waarreno/docelo-atualizacoes/releases/download/v0.42.2/Setup_Docelo.exe",
+  "sha256": "3a782ef32ed7b54c42c12f7a048206c8c5f8fb74838819f3c6d671f4d4116a67",
+  "notas": "- **Inteligência artificial**: com o campo *Limite de tokens* em branco, a resposta não é mais limitada (antes era usado um limite padrão de cada serviço).",
+  "assinatura": "9005752cf26d35e922edf10b832ae1c8f6fdc66e95925800c50355b0b8574e08662ff4f1c6cfa46eca7b8a4d4c1bc4f6d1724636b2b6ffa3aca738dfb5091302"
 }
