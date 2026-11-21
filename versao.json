@@ -1,7 +1,7 @@
 {
-  "versao": "0.43.2",
-  "url": "https://github.com/waarreno/docelo-atualizacoes/releases/download/v0.43.2/Setup_Docelo.exe",
-  "sha256": "c78be2c252080ea1420b046d8db03d655e9479b0fed49f9d4c6a5ed86c801c64",
-  "notas": "- Botões e textos padrão das caixas de diálogo em português (Sim, Não, Cancelar, Salvar, Abrir etc.).",
-  "assinatura": "6f63411053f9a337c764f7c0e24272bc6de7deee09517f2528a10a671bf23fc585c5c37965f5315352e55c39fd72a1bbb26c805afdd4b0f30baa2ebc5b5c2a02"
+  "versao": "0.44.0",
+  "url": "https://github.com/waarreno/docelo-atualizacoes/releases/download/v0.44.0/Setup_Docelo.exe",
+  "sha256": "b980d353d6ca77f00b0813228317ec21190b7e844246d5ae1900d706c7b58b03",
+  "notas": "- **Renovação automática da licença**: quando a licença da instituição é renovada, o programa recebe a nova validade sozinho ao consultar atualizações (mesmo com a atualização automática desativada), sem precisar digitar um novo código. A renovação é publicada de forma cifrada e sem identificar a instituição; cada programa só consegue ler a renovação da própria licença.",
+  "assinatura": "0b155a40a08496fabfb2d03fca9564655ef21478d3cc7260b408ae1a6ad1868c271f9e5da66e5e39adce816cb18ce8924ffa424407dfc5e9fe627f4c4552df0a"
 }
