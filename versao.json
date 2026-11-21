@@ -1,7 +1,7 @@
 {
-  "versao": "0.43.1",
-  "url": "https://github.com/waarreno/docelo-atualizacoes/releases/download/v0.43.1/Setup_Docelo.exe",
-  "sha256": "f6119fc3732bf91ef7ac9fae2cc899f6abfe0935e2b9af1fc85cb6f877ea5812",
-  "notas": "- **Inteligência artificial**: o botão *Configurar IA…* foi retirado das janelas de geração com IA; a configuração fica somente em Parâmetros → Inteligência artificial.",
-  "assinatura": "038e817899cd2a382ed05680a20180b047b097d31a4dedbd71086283b06a7b48166a36ffeabbb5508d659dfb756e12059a479608248fa3c91d486f4d07170c02"
+  "versao": "0.43.2",
+  "url": "https://github.com/waarreno/docelo-atualizacoes/releases/download/v0.43.2/Setup_Docelo.exe",
+  "sha256": "c78be2c252080ea1420b046d8db03d655e9479b0fed49f9d4c6a5ed86c801c64",
+  "notas": "- Botões e textos padrão das caixas de diálogo em português (Sim, Não, Cancelar, Salvar, Abrir etc.).",
+  "assinatura": "6f63411053f9a337c764f7c0e24272bc6de7deee09517f2528a10a671bf23fc585c5c37965f5315352e55c39fd72a1bbb26c805afdd4b0f30baa2ebc5b5c2a02"
 }
