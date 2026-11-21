@@ -1,7 +1,7 @@
 {
-  "versao": "0.42.3",
-  "url": "https://github.com/waarreno/docelo-atualizacoes/releases/download/v0.42.3/Setup_Docelo.exe",
-  "sha256": "a3c773c6f917a4e202b7c7ddc3f4554c33d4a2d453513a0518f942484f24616f",
-  "notas": "- **Apresentações**: o novo slide é inserido logo abaixo do slide selecionado (antes, sempre no fim).",
-  "assinatura": "299f2209c82c3c9232615b1e1ea0a762a69eb59547647ea7c6178b12ff0e51f705ac152389f20da9b6b93b54ee0d6f9869401325eb948ae7d79551140ef31e0e"
+  "versao": "0.43.1",
+  "url": "https://github.com/waarreno/docelo-atualizacoes/releases/download/v0.43.1/Setup_Docelo.exe",
+  "sha256": "f6119fc3732bf91ef7ac9fae2cc899f6abfe0935e2b9af1fc85cb6f877ea5812",
+  "notas": "- **Inteligência artificial**: o botão *Configurar IA…* foi retirado das janelas de geração com IA; a configuração fica somente em Parâmetros → Inteligência artificial.",
+  "assinatura": "038e817899cd2a382ed05680a20180b047b097d31a4dedbd71086283b06a7b48166a36ffeabbb5508d659dfb756e12059a479608248fa3c91d486f4d07170c02"
 }
