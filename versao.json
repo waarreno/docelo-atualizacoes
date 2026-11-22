@@ -1,7 +1,7 @@
 {
-  "versao": "0.44.1",
-  "url": "https://github.com/waarreno/docelo-atualizacoes/releases/download/v0.44.1/Setup_Docelo.exe",
-  "sha256": "036362c71d6fb941dd8ca11d4d31c41b623a460b1ea36e1a473549cb2371924b",
-  "notas": "- **Estabilidade**: o programa não é mais encerrado com falha quando fechado durante a consulta de atualizações ou da renovação da licença.\n- **Diagnóstico**: falhas graves na abertura passam a ser registradas em *logs/falhas.log*, na pasta de dados, com a etapa em que ocorreram.",
-  "assinatura": "45b4d001ead282d10def0a99b59890f8f58fe8055f20fc494316f5f50188a5475dee0a39c7ec46a200b7dd4576431c2edd12abeff9e9c8dbd3c2f4fa3e115300"
+  "versao": "0.45.0",
+  "url": "https://github.com/waarreno/docelo-atualizacoes/releases/download/v0.45.0/Setup_Docelo.exe",
+  "sha256": "8965fc8e7d350e55833686ad8ca0ed2a64c1200f77e0ac8b0fba02b514993752",
+  "notas": "- **OpenRouter pré-definido**: além do Groq, o OpenRouter já vem configurado com o modelo gratuito *openrouter/free* (escolhe automaticamente um modelo gratuito disponível); basta informar a chave. Ambos são restaurados em *Restaurar padrões*.\n- **Como configurar…**: novo botão em Parâmetros → Inteligência artificial que abre o passo a passo na Ajuda.\n- **Manual completo**: Ajuda reescrita, com as telas do programa, passo a passo das tarefas principais e tutoriais para obter as chaves gratuitas do Groq e do OpenRouter. As imagens também saem no PDF do manual.\n- Mensagem específica quando o OpenRouter recusa modelos gratuitos pela configuração de privacidade da conta.\n- Botões desativados com aparência própria.",
+  "assinatura": "7a6867fa065219643beb9d12a18319081bbf15796d254932a37e186322fcfe5b0afe0d53c9c264b64f4f7bb07f746e7d09bea3edb50effd813c7b50d5f8a8a0a"
 }
