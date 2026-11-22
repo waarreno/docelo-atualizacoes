@@ -1,7 +1,7 @@
 {
-  "versao": "0.44.0",
-  "url": "https://github.com/waarreno/docelo-atualizacoes/releases/download/v0.44.0/Setup_Docelo.exe",
-  "sha256": "b980d353d6ca77f00b0813228317ec21190b7e844246d5ae1900d706c7b58b03",
-  "notas": "- **Renovação automática da licença**: quando a licença da instituição é renovada, o programa recebe a nova validade sozinho ao consultar atualizações (mesmo com a atualização automática desativada), sem precisar digitar um novo código. A renovação é publicada de forma cifrada e sem identificar a instituição; cada programa só consegue ler a renovação da própria licença.",
-  "assinatura": "0b155a40a08496fabfb2d03fca9564655ef21478d3cc7260b408ae1a6ad1868c271f9e5da66e5e39adce816cb18ce8924ffa424407dfc5e9fe627f4c4552df0a"
+  "versao": "0.44.1",
+  "url": "https://github.com/waarreno/docelo-atualizacoes/releases/download/v0.44.1/Setup_Docelo.exe",
+  "sha256": "036362c71d6fb941dd8ca11d4d31c41b623a460b1ea36e1a473549cb2371924b",
+  "notas": "- **Estabilidade**: o programa não é mais encerrado com falha quando fechado durante a consulta de atualizações ou da renovação da licença.\n- **Diagnóstico**: falhas graves na abertura passam a ser registradas em *logs/falhas.log*, na pasta de dados, com a etapa em que ocorreram.",
+  "assinatura": "45b4d001ead282d10def0a99b59890f8f58fe8055f20fc494316f5f50188a5475dee0a39c7ec46a200b7dd4576431c2edd12abeff9e9c8dbd3c2f4fa3e115300"
 }
