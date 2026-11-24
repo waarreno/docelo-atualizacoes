@@ -1,7 +1,7 @@
 {
-  "versao": "0.45.1",
-  "url": "https://github.com/waarreno/docelo-atualizacoes/releases/download/v0.45.1/Setup_Docelo.exe",
-  "sha256": "3c6beb0f9ea6577372317f3fe8b5d2ddfe7e8a36c7faaa6b0c35dc2c4ee8c45b",
-  "notas": "- **Correção**: o programa não abria em computadores sem os arquivos temporários de uma execução anterior (computador novo ou pasta temporária limpa pelo Windows).\n- O executável passa a trazer os dados de versão, produto e autoria do Windows.",
-  "assinatura": "76d0ef35e6a5e5f66860e88f58ed3f8984c2d9c3040175a912125a9f145b2febec4f8cf23d86198060491c4a01790acfc753b0d4fbe5506d545cc92014762109"
+  "versao": "0.46.0",
+  "url": "https://github.com/waarreno/docelo-atualizacoes/releases/download/v0.46.0/Setup_Docelo.exe",
+  "sha256": "e68b633c014fcdb98639d864ddb1c724305f8ff9647922d7637948c1869a02e9",
+  "notas": "- **Alunos por disciplina**: nova opção em Parâmetros → *Alunos das disciplinas* para listar somente os alunos vinculados a cada disciplina (inclusive de outras turmas). Vínculos definidos em Disciplinas das turmas → *Alunos da disciplina…* ou por planilha em *Importar vínculos…*. Vale para notas e boletim, cartões-resposta, leitura, frequência e atas; sem vínculo, vale a turma inteira.\n- **Nova apresentação**: campos na ordem disciplina/turma, aula do plano e título; o título é preenchido como *Aula DD/MM/AAAA – conteúdo da aula*, podendo ser editado.\n- **Simulados**: são listadas somente as disciplinas das turmas marcadas.\n- **Revisão do cartão**: a imagem do cartão voltou a aparecer nas leituras feitas antes da mudança de nome do programa.\n- **Questões com IA**: alternativas como *todas as anteriores* e *nenhuma das anteriores* passam a ser permitidas (sempre na última posição).\n- Visual *Vidro* retirado; quem o usava passa ao *Moderno*.",
+  "assinatura": "94d7db553440dd264e94e340c35c9724eda6bb1b2b1e1eb916c3174c174d9f8a6b83d32e3176a9efba260ef8ae5d0069b777499b0c025b1493af98c56506180d"
 }
