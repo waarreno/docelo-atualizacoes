@@ -1,7 +1,7 @@
 {
-  "versao": "0.46.0",
-  "url": "https://github.com/waarreno/docelo-atualizacoes/releases/download/v0.46.0/Setup_Docelo.exe",
-  "sha256": "e68b633c014fcdb98639d864ddb1c724305f8ff9647922d7637948c1869a02e9",
-  "notas": "- **Alunos por disciplina**: nova opção em Parâmetros → *Alunos das disciplinas* para listar somente os alunos vinculados a cada disciplina (inclusive de outras turmas). Vínculos definidos em Disciplinas das turmas → *Alunos da disciplina…* ou por planilha em *Importar vínculos…*. Vale para notas e boletim, cartões-resposta, leitura, frequência e atas; sem vínculo, vale a turma inteira.\n- **Nova apresentação**: campos na ordem disciplina/turma, aula do plano e título; o título é preenchido como *Aula DD/MM/AAAA – conteúdo da aula*, podendo ser editado.\n- **Simulados**: são listadas somente as disciplinas das turmas marcadas.\n- **Revisão do cartão**: a imagem do cartão voltou a aparecer nas leituras feitas antes da mudança de nome do programa.\n- **Questões com IA**: alternativas como *todas as anteriores* e *nenhuma das anteriores* passam a ser permitidas (sempre na última posição).\n- Visual *Vidro* retirado; quem o usava passa ao *Moderno*.",
-  "assinatura": "94d7db553440dd264e94e340c35c9724eda6bb1b2b1e1eb916c3174c174d9f8a6b83d32e3176a9efba260ef8ae5d0069b777499b0c025b1493af98c56506180d"
+  "versao": "0.47.0",
+  "url": "https://github.com/waarreno/docelo-atualizacoes/releases/download/v0.47.0/Setup_Docelo.exe",
+  "sha256": "3e54f009fb9236d770d5cb7f387b79023d10c15b2f83aad8c57d7e0f7433a5aa",
+  "notas": "- **Exportação de dados** (nova guia): arquivos CSV para o sistema acadêmico da instituição. Escolha o tipo de dado (notas por disciplina, resultado de prova, alunos por disciplina, alunos e turmas), os filtros, as colunas e a ordem delas, o título de cada coluna, colunas com valor fixo e o formato (separador, decimal, casas decimais, codificação, linha de títulos). As configurações podem ser salvas como modelos.\n- **Caminhos de arquivos**: imagens dos cartões lidos e logotipo da instituição passam a ser gravados em relação à pasta de dados; os registros existentes são convertidos automaticamente. O banco não depende mais do nome da pasta, do usuário nem do computador (inclusive ao restaurar backup em outro computador).\n- Retiradas as últimas referências ao nome anterior do programa (pastas, variáveis, arquivos temporários, instalador e backups).",
+  "assinatura": "05d968640f2b9b7a79fbd443c721510877073949565fd7e2f2d8097105c2df1e4523a5d42a46ce28dd2d2f1438b4c9d270d3458baf6f0efccd4e69b4a2098604"
 }
