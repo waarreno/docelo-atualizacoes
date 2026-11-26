@@ -1,7 +1,7 @@
 {
-  "versao": "0.48.0",
-  "url": "https://github.com/waarreno/docelo-atualizacoes/releases/download/v0.48.0/Setup_Docelo.exe",
-  "sha256": "c5f891728b60c6c3ecfb9f6c742215a3ffe0834061127ecc8995e4a1ca5004ad",
-  "notas": "- **Certificados** (nova guia): cursos, palestras, atividades, projetos de extensão, eventos e monitoria, em PDF (A4 paisagem) com o logotipo e a cor da instituição. Texto com campos automáticos, conteúdo programático no verso, até três assinaturas (com imagem), participantes de alunos cadastrados, planilha ou digitados, um PDF com todos ou um por participante e código de autenticidade com QR code, consultável no programa.\n- **Simulados com até 90 questões**: cartão-resposta compacto em uma página (três colunas) para 41 a 90 questões; até 40, o modelo atual é mantido.\n- **Salas do simulado**: turmas por sala, capacidade (excedentes passam para a sala seguinte), ajustes manuais e cópia das salas de outro simulado. Impressão em PDF da folha de cada sala, da lista geral em ordem alfabética para o mural e da lista de presença por sala.\n- **Novo simulado**: todas as disciplinas voltam a ser listadas, com a coluna *Turmas* indicando onde cada uma é ofertada.",
-  "assinatura": "a212ba9b8b228f2de8280186229a5427ddeb9243a7eba9b485aac9ea5ffdcf67717435ba6112456e4cc29de0f9dfd9de0c6f3e3bfaa4b8c6b00df456c71aa40c"
+  "versao": "0.49.1",
+  "url": "https://github.com/waarreno/docelo-atualizacoes/releases/download/v0.49.1/Setup_Docelo.exe",
+  "sha256": "67ba24001b8bfca175e6d8789dec4de517ba40d07cd446c271ffc187f35ba09f",
+  "notas": "- **Importação de alunos com turma principal**: coluna opcional *turma_principal* na planilha (também no modelo para baixar), com o nome da turma do período em que o aluno está matriculado. O aluno é vinculado a essa turma e ela passa a ser a principal; turmas não encontradas são informadas ao final.",
+  "assinatura": "632ce207e5ad2996804657e3beb6f2cbc6081d6fc251fa816deeafd919be49a2a015ba1e289f392c80f78ce0c6ea820ddbc6cbaba20968ec6796641566e1120d"
 }
