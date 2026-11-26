@@ -1,7 +1,7 @@
 {
-  "versao": "0.47.0",
-  "url": "https://github.com/waarreno/docelo-atualizacoes/releases/download/v0.47.0/Setup_Docelo.exe",
-  "sha256": "3e54f009fb9236d770d5cb7f387b79023d10c15b2f83aad8c57d7e0f7433a5aa",
-  "notas": "- **Exportação de dados** (nova guia): arquivos CSV para o sistema acadêmico da instituição. Escolha o tipo de dado (notas por disciplina, resultado de prova, alunos por disciplina, alunos e turmas), os filtros, as colunas e a ordem delas, o título de cada coluna, colunas com valor fixo e o formato (separador, decimal, casas decimais, codificação, linha de títulos). As configurações podem ser salvas como modelos.\n- **Caminhos de arquivos**: imagens dos cartões lidos e logotipo da instituição passam a ser gravados em relação à pasta de dados; os registros existentes são convertidos automaticamente. O banco não depende mais do nome da pasta, do usuário nem do computador (inclusive ao restaurar backup em outro computador).\n- Retiradas as últimas referências ao nome anterior do programa (pastas, variáveis, arquivos temporários, instalador e backups).",
-  "assinatura": "05d968640f2b9b7a79fbd443c721510877073949565fd7e2f2d8097105c2df1e4523a5d42a46ce28dd2d2f1438b4c9d270d3458baf6f0efccd4e69b4a2098604"
+  "versao": "0.48.0",
+  "url": "https://github.com/waarreno/docelo-atualizacoes/releases/download/v0.48.0/Setup_Docelo.exe",
+  "sha256": "c5f891728b60c6c3ecfb9f6c742215a3ffe0834061127ecc8995e4a1ca5004ad",
+  "notas": "- **Certificados** (nova guia): cursos, palestras, atividades, projetos de extensão, eventos e monitoria, em PDF (A4 paisagem) com o logotipo e a cor da instituição. Texto com campos automáticos, conteúdo programático no verso, até três assinaturas (com imagem), participantes de alunos cadastrados, planilha ou digitados, um PDF com todos ou um por participante e código de autenticidade com QR code, consultável no programa.\n- **Simulados com até 90 questões**: cartão-resposta compacto em uma página (três colunas) para 41 a 90 questões; até 40, o modelo atual é mantido.\n- **Salas do simulado**: turmas por sala, capacidade (excedentes passam para a sala seguinte), ajustes manuais e cópia das salas de outro simulado. Impressão em PDF da folha de cada sala, da lista geral em ordem alfabética para o mural e da lista de presença por sala.\n- **Novo simulado**: todas as disciplinas voltam a ser listadas, com a coluna *Turmas* indicando onde cada uma é ofertada.",
+  "assinatura": "a212ba9b8b228f2de8280186229a5427ddeb9243a7eba9b485aac9ea5ffdcf67717435ba6112456e4cc29de0f9dfd9de0c6f3e3bfaa4b8c6b00df456c71aa40c"
 }
