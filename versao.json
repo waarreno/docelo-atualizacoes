@@ -1,7 +1,7 @@
 {
-  "versao": "0.50.0",
-  "url": "https://github.com/waarreno/docelo-atualizacoes/releases/download/v0.50.0/Setup_Docelo.exe",
-  "sha256": "63130f7c2329bcd1c97cbedb0d863a81357924674b99569f2e6184f9b3bd4837",
-  "notas": "- **Exportação de dados**: sem tipo de dado, período ou turma pré-selecionados. Todas as colunas do programa (aluno, disciplina, notas e cartão-resposta) ficam numa única lista, com busca; escolha as colunas, a ordem e os títulos. Modelos salvos anteriormente são aproveitados.\n- **Semestre**: o campo \"Período letivo\" das turmas passa a se chamar *Semestre* em todo o programa (o período do aluno é a turma / turma principal).\n- **Certificados**: o local de realização passa a constar no texto do certificado (os textos padrão já salvos são atualizados); quadro de assinaturas maior, com as três linhas visíveis.\n- **Campos de data**: em branco, o calendário abre no mês atual.\n- Botões de excluir e remover destacados em vermelho em todas as telas.",
-  "assinatura": "4623d3e6e9f05e0828de562757cf8ef8772def187455c93cbaa1b12597e754c9437697ab3b5f26402c2c51aa4c78fa53e7990b11932266809c5d138a620ab005"
+  "versao": "0.50.1",
+  "url": "https://github.com/waarreno/docelo-atualizacoes/releases/download/v0.50.1/Setup_Docelo.exe",
+  "sha256": "9270aaecfaf9738d267e17a5f839b4c3a43fe14250c75c3de1b4378436ad3d99",
+  "notas": "- **Exportação em Excel (.xlsx)**: além do CSV, a exportação de dados gera planilha Excel com a matrícula (e demais textos) como texto, sem a conversão do Excel para notação científica, e as notas como número.",
+  "assinatura": "2d7a4bc48324748a42c29a5fb0fa17e0bc3192b53fce0dd89b4d3f0a86b985f69d9aa2e8aaa754c17157566349240b1c5aaf8c91ae4900be342efd9ab5621600"
 }
