@@ -1,7 +1,7 @@
 {
-  "versao": "0.50.1",
-  "url": "https://github.com/waarreno/docelo-atualizacoes/releases/download/v0.50.1/Setup_Docelo.exe",
-  "sha256": "9270aaecfaf9738d267e17a5f839b4c3a43fe14250c75c3de1b4378436ad3d99",
-  "notas": "- **Exportação em Excel (.xlsx)**: além do CSV, a exportação de dados gera planilha Excel com a matrícula (e demais textos) como texto, sem a conversão do Excel para notação científica, e as notas como número.",
-  "assinatura": "2d7a4bc48324748a42c29a5fb0fa17e0bc3192b53fce0dd89b4d3f0a86b985f69d9aa2e8aaa754c17157566349240b1c5aaf8c91ae4900be342efd9ab5621600"
+  "versao": "0.52.0",
+  "url": "https://github.com/waarreno/docelo-atualizacoes/releases/download/v0.52.0/Setup_Docelo.exe",
+  "sha256": "226714d9b6de4ddc3ce292bcc4d0a050d2ba693ce5a76a9c0948fc2638606979",
+  "notas": "- **Semestre em uso**: seletor na barra superior — todos os semestres em andamento ou um semestre específico; as listas e escolhas do programa (turmas, disciplinas das turmas, provas, leitura, notas, simulados, apresentações, atividades e alunos) mostram só o semestre escolhido.\n- **Encerrar semestre** (guia Turmas): o semestre sai das listas e fica disponível somente para consulta pelo seletor, com as ações de produção bloqueadas; pode ser reaberto. Coluna *Situação* nas turmas.",
+  "assinatura": "9f6be915cfae5ecb2696afceaba44ae0b7c173a092847a1c4dead5461395b2e9da38a65ef46ca2a7bf9292c8eb6a425687053446beacf32a73db07cc82c6590c"
 }
