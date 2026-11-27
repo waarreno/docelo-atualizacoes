@@ -1,7 +1,7 @@
 {
-  "versao": "0.52.2",
-  "url": "https://github.com/waarreno/docelo-atualizacoes/releases/download/v0.52.2/Setup_Docelo.exe",
-  "sha256": "0817a241f5d4af8b43f0206129df9e3eb39cd242c7f0bb86264a413eb7ab8500",
-  "notas": "- **Leitura dos cartões**: ajuste fino da posição de cada linha de alternativas, localizando o contorno impresso dos círculos. Papel levemente curvado ou foto em perspectiva deixavam a medição sobre a borda dos círculos vazios e geravam alertas falsos de *resíduo* e *marca secundária*. Na revisão, os círculos de leitura passam a coincidir com os impressos. Cartões já lidos precisam ser lidos de novo para atualizar os alertas.",
-  "assinatura": "5b3987dc6735a4a946372705b16be209d1be4247a5955975568de22ceaec8375736f16023d672e56fd97f0ca482a83cb629fddb8805cfc700afb5d07d1797f08"
+  "versao": "0.53.0",
+  "url": "https://github.com/waarreno/docelo-atualizacoes/releases/download/v0.53.0/Setup_Docelo.exe",
+  "sha256": "e24196f7a094ead81158d0b8cd855199fbab488c590d1e47f8f634a79e2f16c3",
+  "notas": "- **Cartões corrigidos (PDF)** (Leitura dos cartões): todos os cartões lidos num PDF, com a correção sobre a imagem de cada um — marcada em verde (correta) ou vermelho (incorreta), gabarito em verde tracejado nos erros e em branco, sinal de certo/errado por questão e quadro com aluno, acertos e nota.",
+  "assinatura": "99828050168fe7358755601e8163796a36465b2d6581991f6e933b0a270c046d84efe45d5c7fc8e8e9da4c930a35e2225a7927edb317ed550400ee2d2a837108"
 }
