@@ -1,7 +1,7 @@
 {
-  "versao": "0.52.1",
-  "url": "https://github.com/waarreno/docelo-atualizacoes/releases/download/v0.52.1/Setup_Docelo.exe",
-  "sha256": "9b2095ad9b25e405ace8c294a06f9b1384c4db3ba1b06c3b4d3a525326a102f5",
-  "notas": "- **Correção**: o botão *Atendimento especial…* (Alunos) não abria a janela e apagava o atendimento do aluno selecionado; o mesmo defeito afetava *Definir disciplina…* na importação de questões.\n- Alunos: os botões que agem sobre os alunos selecionados (turma, turma principal e atendimento especial) ficam numa segunda linha, sempre visíveis.",
-  "assinatura": "1fb85872f85ab98b9ef60d54fafac88aa714b9025cf7b6ad2e871d267614aacf55afbac0942f4b028eab0986893c4d043f024e445a69e0cf0410a0cb25861406"
+  "versao": "0.52.2",
+  "url": "https://github.com/waarreno/docelo-atualizacoes/releases/download/v0.52.2/Setup_Docelo.exe",
+  "sha256": "0817a241f5d4af8b43f0206129df9e3eb39cd242c7f0bb86264a413eb7ab8500",
+  "notas": "- **Leitura dos cartões**: ajuste fino da posição de cada linha de alternativas, localizando o contorno impresso dos círculos. Papel levemente curvado ou foto em perspectiva deixavam a medição sobre a borda dos círculos vazios e geravam alertas falsos de *resíduo* e *marca secundária*. Na revisão, os círculos de leitura passam a coincidir com os impressos. Cartões já lidos precisam ser lidos de novo para atualizar os alertas.",
+  "assinatura": "5b3987dc6735a4a946372705b16be209d1be4247a5955975568de22ceaec8375736f16023d672e56fd97f0ca482a83cb629fddb8805cfc700afb5d07d1797f08"
 }
