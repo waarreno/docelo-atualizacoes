@@ -1,7 +1,7 @@
 {
-  "versao": "0.52.0",
-  "url": "https://github.com/waarreno/docelo-atualizacoes/releases/download/v0.52.0/Setup_Docelo.exe",
-  "sha256": "226714d9b6de4ddc3ce292bcc4d0a050d2ba693ce5a76a9c0948fc2638606979",
-  "notas": "- **Semestre em uso**: seletor na barra superior — todos os semestres em andamento ou um semestre específico; as listas e escolhas do programa (turmas, disciplinas das turmas, provas, leitura, notas, simulados, apresentações, atividades e alunos) mostram só o semestre escolhido.\n- **Encerrar semestre** (guia Turmas): o semestre sai das listas e fica disponível somente para consulta pelo seletor, com as ações de produção bloqueadas; pode ser reaberto. Coluna *Situação* nas turmas.",
-  "assinatura": "9f6be915cfae5ecb2696afceaba44ae0b7c173a092847a1c4dead5461395b2e9da38a65ef46ca2a7bf9292c8eb6a425687053446beacf32a73db07cc82c6590c"
+  "versao": "0.52.1",
+  "url": "https://github.com/waarreno/docelo-atualizacoes/releases/download/v0.52.1/Setup_Docelo.exe",
+  "sha256": "9b2095ad9b25e405ace8c294a06f9b1384c4db3ba1b06c3b4d3a525326a102f5",
+  "notas": "- **Correção**: o botão *Atendimento especial…* (Alunos) não abria a janela e apagava o atendimento do aluno selecionado; o mesmo defeito afetava *Definir disciplina…* na importação de questões.\n- Alunos: os botões que agem sobre os alunos selecionados (turma, turma principal e atendimento especial) ficam numa segunda linha, sempre visíveis.",
+  "assinatura": "1fb85872f85ab98b9ef60d54fafac88aa714b9025cf7b6ad2e871d267614aacf55afbac0942f4b028eab0986893c4d043f024e445a69e0cf0410a0cb25861406"
 }
